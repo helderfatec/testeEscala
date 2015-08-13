@@ -2,3 +2,4 @@ Rachel comprou um veículo novo.
 Helder vendeu o barco.
 Tiago trocou de moto.
 Daniela é a professora.
+Igor foi professor.
